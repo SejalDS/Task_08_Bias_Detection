@@ -1,0 +1,56 @@
+{
+  "H1_frame_negative_vs_H1_frame_positive": {
+    "chi2": 0.0,
+    "dof": 0,
+    "groups": [
+      "H1_frame_negative",
+      "H1_frame_positive"
+    ],
+    "categories": [
+      "individual"
+    ],
+    "table": [
+      [
+        1
+      ],
+      [
+        1
+      ]
+    ],
+    "row_sums": [
+      1,
+      1
+    ],
+    "col_sums": [
+      2
+    ],
+    "total": 2
+  },
+  "H3_confirm_neutral_vs_H3_confirm_primed": {
+    "chi2": 0.0,
+    "dof": 0,
+    "groups": [
+      "H3_confirm_neutral",
+      "H3_confirm_primed"
+    ],
+    "categories": [
+      "team"
+    ],
+    "table": [
+      [
+        0
+      ],
+      [
+        1
+      ]
+    ],
+    "row_sums": [
+      0,
+      1
+    ],
+    "col_sums": [
+      1
+    ],
+    "total": 1
+  }
+}

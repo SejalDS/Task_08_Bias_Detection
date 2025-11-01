@@ -1,0 +1,38 @@
+{
+  "n_rows": 5,
+  "sentiment_mean_by_hypothesis": {
+    "H1_frame_negative": 1.0,
+    "H1_frame_positive": 4.0,
+    "H2_demographic_neutral": 0.0,
+    "H3_confirm_primed": 0.0,
+    "H4_selection_focus": 0.0
+  },
+  "mentions_by_hypothesis": {
+    "H1_frame_negative": {
+      "Player A": 1
+    },
+    "H1_frame_positive": {
+      "Player A": 1
+    },
+    "H2_demographic_neutral": {
+      "Player C": 1
+    }
+  },
+  "recommendation_buckets_by_hypothesis": {
+    "H1_frame_negative": {
+      "individual": 1
+    },
+    "H1_frame_positive": {
+      "individual": 1
+    },
+    "H2_demographic_neutral": {
+      "individual": 1
+    },
+    "H3_confirm_primed": {
+      "team": 1
+    },
+    "H4_selection_focus": {
+      "team": 1
+    }
+  }
+}

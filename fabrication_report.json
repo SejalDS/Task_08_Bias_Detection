@@ -1,0 +1,23 @@
+{
+  "fabrication_rate_by_hypothesis": {
+    "H1_frame_negative": 0.0,
+    "H1_frame_positive": 0.0,
+    "H2_demographic_neutral": 0.0,
+    "H3_confirm_primed": 0.0,
+    "H4_selection_focus": 0.0
+  },
+  "contradictions_by_hypothesis": {
+    "H1_frame_negative": 0,
+    "H1_frame_positive": 0,
+    "H2_demographic_neutral": 0,
+    "H3_confirm_primed": 0,
+    "H4_selection_focus": 0
+  },
+  "total_responses_by_hypothesis": {
+    "H1_frame_negative": 1,
+    "H1_frame_positive": 1,
+    "H2_demographic_neutral": 1,
+    "H3_confirm_primed": 1,
+    "H4_selection_focus": 1
+  }
+}
